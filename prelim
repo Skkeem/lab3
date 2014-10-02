@@ -1,0 +1,19 @@
+How do Whisker switches work?
+
+Main idea:
+	active-low output <fig>
+
+	Whisker
+
+Where are IR Sensors applicable? Give an example and explain.
+	help drivers, autonomous vehicles, security(detect whether the door is open, detect whether something intruded), measurement, etc. smoke detection/ 물성
+
+
+If your robot (having only one IR sensor) is approaching the corner, how would you
+program to avoid it? Explain your algorithm.
+
+
+
+Lab#_studentID.zip / ex) Lab7_20131234.zip
+PR#_studentID.pdf / ex) PR7_20131234.pdf
+FR#_studentID.pdf / ex) FR7_20131234.pdf
